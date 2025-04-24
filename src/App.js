@@ -6,10 +6,9 @@ import { Movie } from "./componets/Mymovie";
 function App() {
   return (
     <div className="App">
-      {/* <Todo/> */}
 
        <Movie/>
-      {/* <MyReview/> */}
+
     </div>
   );
 }
